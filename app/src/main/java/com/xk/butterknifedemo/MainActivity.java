@@ -14,8 +14,9 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.text)
     TextView textView1;
 
-    //dev fix version 1
+    //dev fix version 2
     //hotfix version 1
+    //fix
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
