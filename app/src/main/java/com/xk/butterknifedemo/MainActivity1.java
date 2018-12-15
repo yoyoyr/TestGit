@@ -10,6 +10,7 @@ public class MainActivity1 extends AppCompatActivity {
     @BindView(R.id.withText)
     TextView textView;
 
+//    hot 1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
