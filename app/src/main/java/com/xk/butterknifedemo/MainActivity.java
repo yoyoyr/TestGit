@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
     public TextView textView;
     @BindView(R.id.text)
     TextView textView1;
+
+    //dev fix version 1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
