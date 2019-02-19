@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/APT-Demo.iml" filepath="$PROJECT_DIR$/APT-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestGit.iml" filepath="$PROJECT_DIR$/TestGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotation-compile/annotation-compile.iml" filepath="$PROJECT_DIR$/annotation-compile/annotation-compile.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotation-lib/annotation-lib.iml" filepath="$PROJECT_DIR$/annotation-lib/annotation-lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
